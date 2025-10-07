@@ -1,2 +1,3 @@
 # gurjar-demo
-this ismy second  repository
+this is my second  repository
+author- Dharmendra Gurjar
